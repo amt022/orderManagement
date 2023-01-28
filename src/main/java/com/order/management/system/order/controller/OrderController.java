@@ -1,9 +1,7 @@
 package com.order.management.system.order.controller;
 
-import com.order.management.system.order.entity.Customer;
 import com.order.management.system.order.entity.Orders;
 import com.order.management.system.order.model.OrderRequest;
-import com.order.management.system.order.repository.CustomerRepository;
 import com.order.management.system.order.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
